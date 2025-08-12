@@ -1,1 +1,5 @@
 20250807	16:45:06	e5aa7619-a1a8-44a8-b603-6b3f63571eaa	Error: Not allowed by CORS
+20250812	17:02:26	8a715c7b-3104-4612-94f9-53e61f8335b4	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250812	17:04:22	267314d2-d5dc-4f75-804a-c8a4f067404b	SyntaxError: Expected double-quoted property name in JSON at position 27 (line 4 column 1)
+20250812	17:04:23	cd586f5d-5043-4273-b284-f07b4ef30fc3	SyntaxError: Expected double-quoted property name in JSON at position 27 (line 4 column 1)
+20250812	17:04:24	c94ec366-a486-4d45-93ce-f3fa252f783b	SyntaxError: Expected double-quoted property name in JSON at position 27 (line 4 column 1)

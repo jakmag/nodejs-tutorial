@@ -3,3 +3,6 @@
 20250812	17:04:22	267314d2-d5dc-4f75-804a-c8a4f067404b	SyntaxError: Expected double-quoted property name in JSON at position 27 (line 4 column 1)
 20250812	17:04:23	cd586f5d-5043-4273-b284-f07b4ef30fc3	SyntaxError: Expected double-quoted property name in JSON at position 27 (line 4 column 1)
 20250812	17:04:24	c94ec366-a486-4d45-93ce-f3fa252f783b	SyntaxError: Expected double-quoted property name in JSON at position 27 (line 4 column 1)
+20250813	16:10:55	bdadb01e-2379-46fb-9d39-1b919436f1dd	TypeError: Cannot read properties of undefined (reading 'id')
+20250813	16:11:03	07f57ee2-9006-48c9-823d-0957970d1afe	TypeError: Cannot read properties of undefined (reading 'id')
+20250813	17:08:06	a5e2a122-24af-4bd2-a21b-99932ef0b24e	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
